@@ -1,1 +1,1 @@
-# UI design for a hotel reservation mobile application using AdobeXD
+# UI design for a hotel booking mobile application using AdobeXD
